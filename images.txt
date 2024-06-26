@@ -1,1 +1,1 @@
-remnux/ciphey
+remnux/ciphey:latest
