@@ -1,2 +1,1 @@
-nginx:1.19.5
-node:14.17.3
+openjdk:21
