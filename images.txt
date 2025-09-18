@@ -1,1 +1,1 @@
-graylog/graylog:5.0
+redis:latest
